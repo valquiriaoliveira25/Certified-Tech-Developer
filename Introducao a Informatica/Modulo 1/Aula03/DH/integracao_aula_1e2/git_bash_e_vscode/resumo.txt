@@ -1,0 +1,1 @@
+Git é sistema de controle de versão de arquivos, vscode é editor de codigo aberto,   bash ferramentas de script    
