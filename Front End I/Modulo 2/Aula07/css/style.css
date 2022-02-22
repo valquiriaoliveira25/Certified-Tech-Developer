@@ -1,0 +1,22 @@
+/*Comentário
+*/
+h1 {
+    color:teal;
+    font-size: 200pix;
+}
+
+.titulo-principal {
+    color: red;
+}
+
+#lista-de-compras {
+    font-size: 60px;
+}
+
+.quadrinhos {
+    font-family: "Arial";
+}
+
+.font-dh {
+    font-family: 'Rajdhani', sans-serif;
+}
